@@ -1,7 +1,7 @@
 # lamp-script
 Script to install the LAMP module in less than a minute!
 
-### Tested on systems:
+### Script supported on systems:
 1. Ubuntu Server 22.04.1
 
 ### Statement:
